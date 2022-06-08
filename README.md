@@ -1,4 +1,4 @@
-# Machine_Learning_Detector_Project:
+# Machine_Learning_Fake_News_Detector_Project:
 I have done this project in task wise manner to make it simplified.
 
 1.Understand the problem statement and business case  
